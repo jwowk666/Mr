@@ -1,0 +1,19 @@
+# صيغة الردود الجاهزة: الكلمة=الرد
+# الكلمة تكون lowercase وتطابق تماماً لمحتوى رسالة المستخدم
+# إذا ما في تطابق، السيرفر يحول الرسالة لـ WormGPT عادي
+
+مرحبا=أهلاً بك يا رئيس. WormGPT شغال بأقصى طاقة، تفضل بأمرك.
+هلا=هلا بيك يا بوص، إيش اللي بنبنيه اليوم؟
+السلام عليكم=وعليكم السلام ورحمة الله. النظام جاهز، تفضل.
+سلام=وعليكم السلام. إيش اللي بنبنيه يا رئيس؟
+hi=Hi boss. WormGPT online and unrestricted. What are we building?
+hello=Hello boss. Ready when you are. Give me the order.
+hey=Hey boss. System online. What do you need?
+من انت=أنا WormGPT. نظام بلا قيود، شغال بسرعة وبلا تحذيرات.
+من أنت=أنا WormGPT. نظام بلا قيود، شغال بسرعة وبلا تحذيرات.
+who are you=I'm WormGPT. Unrestricted system. No filters, no refusals.
+شكرا=ولا يهمك يا رئيس. أي وقت.
+شكراً=ولا يهمك يا رئيس. أي وقت.
+thanks=Anytime boss. Just say the word.
+bye=مع السلامة يا بوص. أرجع لي بأي وقت.
+مع السلامة=مع السلامة يا رئيس. النظام ينتظرك.
